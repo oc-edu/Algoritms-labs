@@ -1,1 +1,1 @@
-# Algoritms-labs
+# Algoritm-labs
